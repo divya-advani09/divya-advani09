@@ -18,13 +18,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/divya-advani-2a6770233/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aman kumar prajapati" height="30" width="40" /></a>
-<a href="https://fb.com/aman prajapati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aman prajapati" height="30" width="40" /></a>
-<a href="https://instagram.com/aman_04k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aman_04k" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/aman prajapati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="aman prajapati" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/aman_05k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aman_05k" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@amanprajapati721" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@amanprajapati721" height="30" width="40" /></a>
-</p>
+<a href="https://www.linkedin.com/in/divya-advani-2a6770233/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="divya advani" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/divya_advani09/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aman_05k" height="30" width="40" /></a>
+  <a href="https://www.hackerrank.com/profile/divya912003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="aman prajapati" height="30" width="40" /></a>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
